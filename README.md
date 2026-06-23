@@ -78,7 +78,7 @@ python app.py
 
 Lakhan Khandelwal
 
-BCA (AI & ML)
+BCA (AI & ML)SAS
 Poornima University
 
 ## ⭐ Support
